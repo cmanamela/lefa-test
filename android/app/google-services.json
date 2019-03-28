@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461368873954",
+    "firebase_url": "https://nedbankdata.firebaseio.com",
+    "project_id": "nedbankdata",
+    "storage_bucket": "nedbankdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461368873954:android:a2ecb408a150cdd3",
+        "android_client_info": {
+          "package_name": "com.lefa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461368873954-44g09c3qk79e02rq19vbmq50ne2lviei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGFOM8OBezpx9G6dtLdAdCJ5HF1pXVYgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
