@@ -39,7 +39,9 @@ yarn-error.log
 # BUCK
 buck-out/
 \.buckd/
-*.keystore
+#TODo: remove after test
+.keystore
+
 
 # fastlane
 #
